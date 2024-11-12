@@ -1,1 +1,1 @@
-this project is to generate a post fix notation for boolean algebra
+this project is to generate a calculator post fix notation for boolean algebra
